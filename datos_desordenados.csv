@@ -1,0 +1,12 @@
+﻿ID_Transaccion,Fecha,Nombre_Cliente,Producto_ID,Descripcion_Producto,Cantidad,Precio_Unitario,Ciudad,Region,Notas
+TX001,15/01/2023, Juan Pérez ,prd-001,Laptop Modelo X,1,"$ 1,250.50 ",Madrid,Centro,"Entrega Urgente"
+TX002,2023-02-20, María Gómez,prd-002,Teclado Inalámbrico,2,75.00,barcelona,Cataluña,
+TX003,Mar 5, 22, pedro López ,prd-001,1,1240,valencia,Comunidad Valenciana, Cliente VIP
+TX004,,Ana Silva,prd-003,Monitor 24",uno," 600.00 ",Sevilla,Andalucía," Caja dañada "
+TX005,2023/04/10,Carlos NULL,prd-002,Teclado Inalámbrico," 1 "," $75.00",Bilbao,País Vasco,N/A
+TX006,May 18 2023, Sofía Martín ,prd-004,Webcam HD,1,120.50, MÁLAGA ,Andalucía,
+TX001,15/01/2023, Juan Pérez ,prd-001,Laptop Modelo X,1,"$ 1,250.50 ",Madrid,Centro,"Registro duplicado"
+TX007,2023-06-25,Luisa Fernández,prd-005,Mouse Ergonómico,3,45.99,Zaragoza,Aragón,
+TX008,Jul 1 2023, Javier Muñoz ,prd-003,Monitor 24 pulgadas,1,600,sevilla,Andalucía, typo en ciudad
+TX009,N/A,Elena Blanco,prd-001,Laptop Model X,1,1255.00,Madrid,Centro,"Versión anterior precio"
+TX010,2023-08-15, david Romero ,prd-002,Teclado Inalambrico,dos,74.99,Barcelona,Cataluña,"Cantidad como texto"

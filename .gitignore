@@ -1,0 +1,24 @@
+# Entorno virtual
+venv/
+*/venv/
+.venv/
+
+# Archivos compilados de Python y caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos generados por el ETL (Opcional, pero recomendado no versionarlos)
+# Descomentar si no quieres añadir los archivos de salida al repositorio
+# datos_limpios.csv
+# datos_limpios.xlsx
+# mi_base_etl.db
+
+# Archivos específicos de IDEs/Editores (ejemplos)
+.vscode/
+.idea/
+*.swp
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
